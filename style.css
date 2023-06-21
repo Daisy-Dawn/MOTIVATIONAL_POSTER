@@ -1,0 +1,29 @@
+html{
+background-color: black; 
+color: white;   
+}
+h1{
+    color:blanchedalmond;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+img{
+    width: 100%;
+}
+#my_main{
+    border: 5px white solid;
+}
+p{
+    font-size: larger;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+}
+br{
+    color: blanchedalmond;
+}
